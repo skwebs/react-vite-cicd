@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "vite",
     "start": "vite --host",
-    "buildbase": "vite build --base=/react-vite-cicd/",
-    "build": "vite build",
+    "build": "vite build --base=/react-vite-cicd/",
+    "build2": "vite build",
     "preview": "vite preview --host"
   },
   "dependencies": {
